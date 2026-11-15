@@ -1,4 +1,4 @@
 hello world
 this is my second change.
-this is third change in master branch.
-this is first change in feature1.
+this is first change in feature branch.
+
